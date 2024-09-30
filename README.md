@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=49f5ff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Andr%C3%A9+Matos;Sou+Dev+Front-End+Junior;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dede381&show_icons=true&title_color=49f5ff&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dede381&layout=compact&langs_count=7&title_color=49f5ff&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DedeMatos&show_icons=true&title_color=49f5ff&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedeMatos&layout=compact&langs_count=7&title_color=49f5ff&theme=dracula"/>
 </div>
 
 
